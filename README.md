@@ -30,3 +30,5 @@ I'm an AI/ML Enthusiast...
 
 ## 🛠 Skills
 Javascript, HTML, CSS, MongoDB, ExpressJS, React, NodeJS, C, C++, Python
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrithakar&show_icons=true&theme=radical)
